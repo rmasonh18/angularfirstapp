@@ -6,4 +6,12 @@ Five common features of Angular Template Syntax
 5. event binding ()
 
 
-Components
+Components -- comprised 3 things
+1. component class
+2. html template
+3 component specific style
+
+App components -- this project
+1. app-root --> application shell
+2. app-top-bar
+3. app-product-list
